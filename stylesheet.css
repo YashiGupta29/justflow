@@ -1,0 +1,20 @@
+.img-responsive{
+	display: block;
+	margin: 0 auto;
+	padding : 20px;
+}
+
+.dropdown{
+	padding : 20px;
+}
+
+.list-group{
+	text-align : center;
+}
+
+body{
+	background-color : black;
+	font-family : Satisfy;
+	font-size : 20px;
+}
+
